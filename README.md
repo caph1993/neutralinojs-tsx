@@ -4,6 +4,8 @@ Minimal template for creating an app using NeutralinoJS + Typescript + React.
 
 ```bash
 # First time
+git clone git@github.com:caph1993/neutralinojs-tsx.git
+cd neutralinojs-tsx
 sudo npm i -g @neutralinojs/neu
 npm install
 # Afterwards
