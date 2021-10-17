@@ -1,0 +1,20 @@
+
+#root {
+    text-align: center;
+    color: white;
+}
+#root h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #000000;
+}
+#root a {
+    margin-left: 12px;
+}
+#root span {
+    font-size: 12px;
+    font-weight: normal;
+}
+body {
+    background-color: black;
+}
